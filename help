@@ -1,0 +1,19 @@
+npx create-next-app@latest ./
+N ts, N lsint, Y twcss, N src, Y app, N ...
+
+pnpm install bcrypt mongodb mongoose next-auth
+
+pnpm run dev
+
+creato cluster su Atlas MongoDB Luca's Promptopia Promptopia
+
+andare su openssl terminal e lancoare comando openssl rand -base64 32 per ottenere chiave ci cryptazione.
+
+
+
+[] Implement Search
+  - Search by prompt
+  - Search bu tag
+  - Search by username
+[] Implement Click on tag
+[] Implement view other prifiles
